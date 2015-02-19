@@ -1,2 +1,2 @@
 # Amazon Ivona tts 
-Ivona text to spech
+Ivona text to spech php class
